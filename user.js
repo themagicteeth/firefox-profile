@@ -111,7 +111,7 @@ user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.search.update", false);
 user_pref("browser.search.widget.inNavBar", true);
 
-// New tab page
+// New tab page / Activity stream
 user_pref("browser.newtab.preload", false);
 user_pref("browser.newtabpage.activity-stream.default.sites", "");
 user_pref("browser.newtabpage.activity-stream.disableSnippets", true);
@@ -124,6 +124,7 @@ user_pref("browser.newtabpage.activity-stream.showSponsored", false);
 user_pref("browser.newtabpage.activity-stream.telemetry", false);
 user_pref("browser.newtabpage.activity-stream.telemetry.ping.endpoint", "");
 user_pref("browser.newtabpage.activity-stream.telemetry.ut.events", false);
+user_pref("browser.library.activity-stream.enabled", false);
 
 // Studies and experiments
 user_pref("app.normandy.enabled", false);
