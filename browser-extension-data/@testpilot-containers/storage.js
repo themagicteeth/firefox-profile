@@ -3,7 +3,7 @@
     "6.0.0"
   ],
   "onboarding-stage": 5,
-  "containerTabsOpened": 996,
+  "containerTabsOpened": 1152,
   "siteContainerMap@@_www.reddit.com": {
     "userContextId": "7",
     "neverAsk": true
@@ -112,7 +112,7 @@
   },
   "siteContainerMap@@_www.udemy.com": {
     "userContextId": "24",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.massdrop.com": {
     "userContextId": "10",
@@ -132,7 +132,7 @@
   },
   "siteContainerMap@@_www.craigslist.org": {
     "userContextId": "29",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_minneapolis.craigslist.org": {
     "userContextId": "29",
@@ -180,7 +180,7 @@
   },
   "siteContainerMap@@_twitter.com": {
     "userContextId": "30",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.capitalone.com": {
     "userContextId": "25",
@@ -200,7 +200,7 @@
   },
   "siteContainerMap@@_www.newshosting.com": {
     "userContextId": "32",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_support.newshosting.com": {
     "userContextId": "32",
@@ -240,7 +240,7 @@
   },
   "siteContainerMap@@_wiki.step-project.com": {
     "userContextId": "27",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_forum.step-project.com": {
     "userContextId": "27",
@@ -272,7 +272,7 @@
   },
   "siteContainerMap@@_bitwarden.com": {
     "userContextId": "36",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_vault.bitwarden.com": {
     "userContextId": "36",
@@ -336,7 +336,7 @@
   },
   "siteContainerMap@@_www.openmailbox.org": {
     "userContextId": "37",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_app.openmailbox.org": {
     "userContextId": "37",
@@ -348,11 +348,11 @@
   },
   "siteContainerMap@@_www.namesilo.com": {
     "userContextId": "40",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.namecheap.com": {
     "userContextId": "39",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_ap.www.namecheap.com": {
     "userContextId": "39",
@@ -360,7 +360,7 @@
   },
   "siteContainerMap@@_www.spotify.com": {
     "userContextId": "41",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_accounts.spotify.com": {
     "userContextId": "41",
@@ -396,7 +396,7 @@
   },
   "siteContainerMap@@_www.codecademy.com": {
     "userContextId": "43",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_discuss.codecademy.com": {
     "userContextId": "43",
@@ -420,7 +420,7 @@
   },
   "siteContainerMap@@_www.gravie.com": {
     "userContextId": "48",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_member.gravie.com": {
     "userContextId": "48",
@@ -428,7 +428,7 @@
   },
   "siteContainerMap@@_member.ucare.org": {
     "userContextId": "49",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_home.ucare.org": {
     "userContextId": "49",
@@ -436,11 +436,11 @@
   },
   "siteContainerMap@@_fafsa.ed.gov": {
     "userContextId": "50",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.mycornerstoneloan.org": {
     "userContextId": "51",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_myaccount.mycornerstoneloan.org": {
     "userContextId": "51",
@@ -448,7 +448,7 @@
   },
   "siteContainerMap@@_www.deltadental.com": {
     "userContextId": "52",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.blizzard.com": {
     "userContextId": "53",
@@ -492,7 +492,7 @@
   },
   "siteContainerMap@@_news.ycombinator.com": {
     "userContextId": "54",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_hn.algolia.com": {
     "userContextId": "54",
@@ -515,11 +515,11 @@
   },
   "siteContainerMap@@_www.dollarshaveclub.com": {
     "userContextId": "57",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.metrotransit.org": {
     "userContextId": "58",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_account.metrotransit.org": {
     "userContextId": "58",
@@ -531,11 +531,11 @@
   },
   "siteContainerMap@@_www.freecodecamp.org": {
     "userContextId": "59",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.dropbox.com": {
     "userContextId": "60",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_forum.freecodecamp.org": {
     "userContextId": "59",
@@ -543,7 +543,7 @@
   },
   "siteContainerMap@@_www.usps.com": {
     "userContextId": "61",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_informeddelivery.usps.com": {
     "userContextId": "61",
@@ -579,11 +579,11 @@
   },
   "siteContainerMap@@_trello.com": {
     "userContextId": "62",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_www.microcenter.com": {
     "userContextId": "63",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_cart.microcenter.com": {
     "userContextId": "63",
@@ -599,7 +599,7 @@
   },
   "siteContainerMap@@_dunwoody-csm.symplicity.com": {
     "userContextId": "66",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_userstyles.org": {
     "userContextId": "67",
@@ -615,7 +615,7 @@
   },
   "siteContainerMap@@_www.mnsure.org": {
     "userContextId": "69",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_": {
     "userContextId": "69",
@@ -659,7 +659,7 @@
   },
   "siteContainerMap@@_www.etsy.com": {
     "userContextId": "87",
-    "neverAsk": false
+    "neverAsk": true
   },
   "siteContainerMap@@_199.66.73.52": {
     "userContextId": "88",
@@ -679,6 +679,485 @@
   },
   "siteContainerMap@@_www.humblebundle.com": {
     "userContextId": "91",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-default": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-6": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-7": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-8": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-9": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-10": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-11": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-12": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-13": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-14": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-15": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-16": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-17": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-18": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-19": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-20": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-21": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-22": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-23": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-24": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-25": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-27": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-28": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-29": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-30": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-31": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-32": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-33": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-34": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-35": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-36": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-37": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-38": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-39": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-40": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-41": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-42": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-43": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-44": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-45": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-46": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-47": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-48": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-49": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-50": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-51": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-52": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-53": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-54": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-55": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-57": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-58": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-59": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-60": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-61": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-62": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-63": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-64": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-65": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-66": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-67": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-69": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-70": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-85": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-86": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-87": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-88": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-89": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_education.github.com": {
+    "userContextId": "6",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_i.redditmedia.com": {
+    "userContextId": "7",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_g.redditmedia.com": {
+    "userContextId": "7",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_login.fidelity.com": {
+    "userContextId": "34",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_creditwise.capitalone.com": {
+    "userContextId": "25",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_sales.jetbrains.com": {
+    "userContextId": "56",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_hub.jetbrains.com": {
+    "userContextId": "56",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-134": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.hulu.com": {
+    "userContextId": "134",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_auth.hulu.com": {
+    "userContextId": "134",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_secure.hulu.com": {
+    "userContextId": "134",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-135": {
+    "hiddenTabs": []
+  },
+  "identitiesState@@_firefox-container-136": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.digitalocean.com": {
+    "userContextId": "135",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_cloud.digitalocean.com": {
+    "userContextId": "135",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_about.gitlab.com": {
+    "userContextId": "136",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_gitlab.com": {
+    "userContextId": "136",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_pro.codecademy.com": {
+    "userContextId": "43",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-137": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.deployhq.com": {
+    "userContextId": "137",
+    "neverAsk": true
+  },
+  "identitiesState@@_firefox-container-138": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_dash.cloudflare.com": {
+    "userContextId": "138",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_www.cloudflare.com": {
+    "userContextId": "138",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_cloudflare.github.io": {
+    "userContextId": "138",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_auth.freecodecamp.org": {
+    "userContextId": "59",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-139": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.jellykey.com": {
+    "userContextId": "139",
+    "neverAsk": true
+  },
+  "siteContainerMap@@_store.jellykey.com": {
+    "userContextId": "139",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-140": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_kbdfans.cn": {
+    "userContextId": "140",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-141": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_discordapp.com": {
+    "userContextId": "141",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_cns.usps.com": {
+    "userContextId": "61",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_postcalc.usps.com": {
+    "userContextId": "61",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_eddm.usps.com": {
+    "userContextId": "61",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_dbcalc.usps.com": {
+    "userContextId": "61",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_faq.usps.com": {
+    "userContextId": "61",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_search.usps.com": {
+    "userContextId": "61",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisminnetonka.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisedina.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisbloomington.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisburnsville.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisedenprairie.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisdowntown.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisplymouth.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davanniseastside.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davanniswoodbury.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davanniscg.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisroseville.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisrichfield.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisriverside.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davanniseagan.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannischanhassen.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisbrooklyncenter.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_davannisardenhills.foodtecsolutions.com": {
+    "userContextId": "12",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-142": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.carfax.com": {
+    "userContextId": "142",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_support.carfax.com": {
+    "userContextId": "142",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_secure.carfax.com": {
+    "userContextId": "142",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-143": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.paypal.com": {
+    "userContextId": "143",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-144": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.newegg.com": {
+    "userContextId": "144",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_www.neweggbusiness.com": {
+    "userContextId": "144",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_secure.newegg.com": {
+    "userContextId": "144",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_kb.newegg.com": {
+    "userContextId": "144",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-145": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_www.jimmyjohns.com": {
+    "userContextId": "145",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_online.jimmyjohns.com": {
+    "userContextId": "145",
+    "neverAsk": false
+  },
+  "siteContainerMap@@_www.mercury-gift.com": {
+    "userContextId": "145",
+    "neverAsk": false
+  },
+  "identitiesState@@_firefox-container-146": {
+    "hiddenTabs": []
+  },
+  "siteContainerMap@@_mail.wddco.com": {
+    "userContextId": "146",
     "neverAsk": false
   }
 }
