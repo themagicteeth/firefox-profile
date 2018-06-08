@@ -227,4 +227,4 @@ user_pref("browser.aboutHomeSnippets.updateUrl", "data:,");
 
 // Sync
 user_pref("services.sync.engine.bookmarks.buffer", true);
-user_pref("services.sync.username", "will.js@protonmail.com");
+
