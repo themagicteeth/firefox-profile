@@ -47,6 +47,9 @@ user_pref("devtools.chrome.enabled", true);
 user_pref("devtools.debugger.remote-enabled", true);
 user_pref("devtools.accessibility.enabled", true);
 user_pref("devtools.scratchpad.enabled", true);
+user_pref("devtools.command-button-rulers.enabled", true);
+user_pref("devtools.command-button-scratchpad.enabled", true);
+user_pref("devtools.command-button-measure.enabled", true);
 
 // Error/crash reports
 user_pref("browser.chrome.errorReporter.enabled", false);
