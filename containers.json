@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUserContextId": 133,
+  "version": 4,
+  "lastUserContextId": 146,
   "identities": [
     {
       "userContextId": 5,
@@ -485,6 +485,105 @@
       "icon": "circle",
       "color": "purple",
       "name": "Tumblr"
+    },
+    {
+      "userContextId": 4294967295,
+      "public": false,
+      "icon": "",
+      "color": "",
+      "name": "userContextIdInternal.webextStorageLocal",
+      "accessKey": ""
+    },
+    {
+      "userContextId": 134,
+      "public": true,
+      "icon": "circle",
+      "color": "turquoise",
+      "name": "Hulu"
+    },
+    {
+      "userContextId": 135,
+      "public": true,
+      "icon": "circle",
+      "color": "blue",
+      "name": "Digital Ocean"
+    },
+    {
+      "userContextId": 136,
+      "public": true,
+      "icon": "circle",
+      "color": "orange",
+      "name": "GitLab"
+    },
+    {
+      "userContextId": 137,
+      "public": true,
+      "icon": "circle",
+      "color": "purple",
+      "name": "DeployHQ"
+    },
+    {
+      "userContextId": 138,
+      "public": true,
+      "icon": "circle",
+      "color": "orange",
+      "name": "Cloudflare"
+    },
+    {
+      "userContextId": 139,
+      "public": true,
+      "icon": "circle",
+      "color": "red",
+      "name": "JellyKey"
+    },
+    {
+      "userContextId": 140,
+      "public": true,
+      "icon": "circle",
+      "color": "blue",
+      "name": "KBDFans"
+    },
+    {
+      "userContextId": 141,
+      "public": true,
+      "icon": "circle",
+      "color": "purple",
+      "name": "Discord"
+    },
+    {
+      "userContextId": 142,
+      "public": true,
+      "icon": "circle",
+      "color": "blue",
+      "name": "Carfax"
+    },
+    {
+      "userContextId": 143,
+      "public": true,
+      "icon": "circle",
+      "color": "blue",
+      "name": "PayPal"
+    },
+    {
+      "userContextId": 144,
+      "public": true,
+      "icon": "circle",
+      "color": "yellow",
+      "name": "Newegg"
+    },
+    {
+      "userContextId": 145,
+      "public": true,
+      "icon": "circle",
+      "color": "red",
+      "name": "Jimmy Johns"
+    },
+    {
+      "userContextId": 146,
+      "public": true,
+      "icon": "circle",
+      "color": "blue",
+      "name": "WDD Mail"
     }
   ]
 }
