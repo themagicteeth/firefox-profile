@@ -1,0 +1,15 @@
+/* Containerise */
+@-moz-document url-prefix("moz-extension://6d4364b8-11c2-4d83-9fcc-05d7ca643e19") {
+	.container-selector-list  {
+		overflow-x: hidden !important;
+	}
+}
+
+/* Cookie Manager */
+@-moz-document url-prefix("moz-extension://f520de7d-d2c2-4a1f-b94b-bc956fcbad38") {
+	.domain-list {
+		position: fixed !important;
+		margin-left: 200px !important;
+		width: 70% !important;
+	}
+}
